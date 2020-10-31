@@ -1,26 +1,10 @@
-name: SkyPvPBeta
+name: Votekick System
 version: 1.0
-author: EnderReturn, Vyrrex
-main: skypvp.Main.Main
+author: EnderReturn
+main: kick.main.main
+
 commands:
-  skypvp:
-  spawn:
-  kits:
-  build:
-  fly:
-  vanish:
-  cc:
-  ec:
-  wb:
-  stats:
-  invsee:
-  votekick:
-  ja:
-  nein:
-  uja:
-  unein:
-  umfrage:
-  reset:
-  feed:
-  heal:
-  
+   ja:
+   nein:
+   votekick:
+   
